@@ -1,5 +1,7 @@
 # Standard View
 
+Standard View is React 3D library for fast prototyping.
+
 # Usage
 
 Install
